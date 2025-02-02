@@ -1,8 +1,9 @@
 # Mastercard-Advisors-Consulting-Services
-Virtual Job ![Screenshot 2025-02-02 202643](https://github.com/user-attachments/assets/4b630d49-57f4-48d1-9021-29135559a499)
+Virtual Job
 
+![](https://logos-world.net/wp-content/uploads/2020/09/Mastercard-Logo-2016-2020.png)
 
-(https://logos-world.net/wp-content/uploads/2020/09/Mastercard-Logo-2016-2020.png)
+![TEAM](https://github.com/user-attachments/assets/4b630d49-57f4-48d1-9021-29135559a499)
 
 # Project Brief - Mastercard -IT and Consulting Services
 
